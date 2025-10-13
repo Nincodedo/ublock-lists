@@ -10,3 +10,4 @@ github.com##blob-view-header-copilot-icon > .octicon-copilot.octicon:upward(div)
 github.com##span.ActionListItem-label:has-text(/(copilot|models)/i):upward(li)
 github.com##.Box-title:has-text("Your AI pair programmer"):upward(div):upward(div):upward(div)
 github.com##span[class*="ActionList-ItemLabel"]:has-text(/(github mcp|models)/i):upward(li)
+github.com###blob-view-header-copilot-icon
